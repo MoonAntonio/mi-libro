@@ -3,7 +3,15 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - BD
+  - Transicion
+  - ScrollInit
+  - btnRecetas
+  - btnPlantas
+  - BtnInfusiones
+  - collider2
+  - fondo2
   layers:
   - Default
   - TransparentFX

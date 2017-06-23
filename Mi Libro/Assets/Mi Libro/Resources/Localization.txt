@@ -1,0 +1,14 @@
+KEY,English,Spain
+Language,English,Spain
+lblRecetas,-,Recetas
+lblPlantas,-,Plantas
+lblInfusion,-,Infusiones
+lblDesayuno,-,Desayuno
+lblAlmuerzo,-,Almuerzo
+lblComida,-,Comida
+lblMerienda,-,Merienda
+lblCena,-,Cena
+desayunoTortitas,-,"INGREDIENTES:8 claras de huevo
+ 50gr avena triturada(harina de avena)
+ 1 cucharada de canela(al gusto)
+ 1 cucharada de sacarina liquida"
